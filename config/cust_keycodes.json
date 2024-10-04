@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"LEFT_WIN(LEFT_SHIFT(S))"
+		],
+		"description": "LEFT_WIN(LEFT_SHIFT(S))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
